@@ -1,0 +1,15 @@
+2001,Python Programming,Mark Lutz,0
+2002,Python cookbook,David Beazley,1
+2003,Python for data analysis,Wes Mckinney,0
+2004,Python Data Science,Jake Vanderplas,0
+1000,Making India Awesome,Chetan Bhagat,1
+1001,A call to Honour,Jaswant Singh,1
+1002,A Sense of Time,H.S. Vatsyayan,1
+1003,A Bunch of old letter,Jawaharlal Nehru,1
+1004,A Village by the Sea,Anita Desai,1
+3000,Beginning of the Beginning,Bhagwan Shri Rajneesh,0
+3001,Broken Wings,Sarojin Naidu,0
+3002,Circle of Reason,Amitav Ghosh,1
+3003,Clear Light of Day,Anita Desai,1
+3004,Death of a city,Amrita Pritam,1
+3005,Discovery of India,Jawaharlal Nehru,1
