@@ -1,11 +1,11 @@
 The Library Management System (LMS) is a console-based application built in Python that allows librarians and users to manage library operations efficiently. The system provides the ability to:
 
-Add new books to the library database.
-Search and display book details.
-Borrow and return books.
-View all available books.
-Handle errors gracefully using exception handling.
-Store all data in files (book records, user actions) for persistent storage.
+-> Add new books to the library database.
+-> Search and display book details.
+-> Borrow and return books.
+-> View all available books.
+-> Handle errors gracefully using exception handling.
+-> Store all data in files (book records, user actions) for persistent storage.
 
 Features
 Add Books: Add new books to the library catalog with details like book title, author, and ISBN number.
